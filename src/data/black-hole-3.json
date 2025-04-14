@@ -1,0 +1,18 @@
+{
+  "title": {
+    "en": "Black hole 03",
+    "pl": "Czarna dziura 03"
+  },
+  "slug": "black-hole-3",
+  "media": ["/media/black-hole-03.webp"],
+  "dimensions": "h:45x45x27cm",
+  "materials": {
+    "en": "Stoneware, textile filament",
+    "pl": "Kamionka, włókno tekstylne"
+  },
+  "technique": {
+    "en": "Object thrown on the potter’s wheel",
+    "pl": "Obiekt toczony na kole garncarskim"
+  },
+  "year": "2024"
+}

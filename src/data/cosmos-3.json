@@ -1,0 +1,12 @@
+{
+  "title": { "en": "Cosmos 03", "pl": "Kosmos 03" },
+  "slug": "cosmos-3",
+  "media": ["/media/cosmos-03.webp"],
+  "dimensions": "h:46x62x5cm",
+  "materials": { "en": "Stoneware", "pl": "Kamionka" },
+  "technique": {
+    "en": "Wall piece thrown on the potter’s wheel",
+    "pl": "Płaszczyzny toczone na kole garncarskim"
+  },
+  "year": "2024"
+}

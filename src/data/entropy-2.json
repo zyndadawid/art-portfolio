@@ -1,0 +1,22 @@
+{
+  "title": {
+    "en": "High Entropy",
+    "pl": "Entropia wysoka"
+  },
+  "slug": "entropy-2",
+  "media": [
+    "/media/entropy-04.webp",
+    "/media/entropy-05.webp",
+    "/media/entropy-06.webp"
+  ],
+  "dimensions": "h:3x100x100cm",
+  "materials": {
+    "en": "Stoneware",
+    "pl": "Kamionka"
+  },
+  "technique": {
+    "en": "Created using an extruder and fired in a hybrid kiln of my own construction.",
+    "pl": "Wykonane przy użyciu ekstrudera i wypalone w hybrydowym piecu własnej konstrukcji."
+  },
+  "year": "2024"
+}

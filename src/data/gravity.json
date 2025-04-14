@@ -1,0 +1,14 @@
+{
+  "title": { "en": "!Gravity - performance", "pl": "Grawitacja - performance" },
+  "media": [
+    "/media/gravity-03.webp",
+    "/media/gravity-02.webp",
+    "/media/gravity-01.webp"
+  ],
+  "description": {
+    "pl": "Chcę zostać pierwszym międzyplanetarnym ceramikiem. Taki zamiar zrodził się pewnego razu w mojej głowie. Zacząłem więc przygotowania i mam nadzieję, że to tylko kwestia czasu, zanim ludzkość stanie się międzyplanetarnym gatunkiem. Oczywiście nie jestem w stanie zasymulować zerowego przyciągania na Ziemi, ale mogę podjąć próbę pracy w odwróconym polu grawitacyjnym. Konstrukcją przyrządu jest drewniana siatka sześcianu - rama utrzymująca powieszone do góry nogami koło garncarskie. Ta pozycja stawia przed użytkownikiem nowe wyzwania, takie jak samoczynnie rozciągająca się i rozpadająca glina.",
+    "en": "I want to become the first interplanetary ceramicist. This idea once took shape in my mind. So I began preparing, and I hope it’s only a matter of time before humanity becomes an interplanetary species. Of course, I can’t simulate zero gravity on Earth, but I can attempt to work in an inverted gravitational field. The structure of the device is a wooden cube frame that holds a potter’s wheel suspended upside down. This position presents new challenges for the user, such as clay that stretches and collapses on its own."
+  },
+
+  "year": "2023"
+}

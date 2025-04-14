@@ -1,0 +1,49 @@
+{
+  "title": { "en": "Cosmos", "pl": "Kosmos" },
+  "media": [
+    {
+      "title": { "en": "Cosmos-1", "pl": "Kosmos-1" },
+      "slug": "cosmos-1",
+      "media": ["/media/cosmos-01.webp"],
+      "description": {
+        "en": "Shown in Faena bienalle",
+        "pl": "Prezentowany na bienalle w Faenzie"
+      },
+      "messurments": "40x40x40cm",
+      "materials": { "en": "stoneware", "pl": "kamionka" },
+      "year": "2024"
+    },
+    {
+      "title": { "en": "Cosmos 02", "pl": "Kosmos 02" },
+      "slug": "cosmos-2",
+      "media": ["/media/cosmos-02.webp"],
+      "description": {
+        "en": "Shown in Faena bienalle",
+        "pl": "Prezentowany na bienalle w Faenzie"
+      },
+      "messurments": "40x40x40cm",
+      "materials": { "en": "stoneware", "pl": "kamionka" },
+      "year": "2024"
+    },
+    {
+      "title": { "en": "Cosmos-1", "pl": "Kosmos-1" },
+      "slug": "cosmos-1",
+      "media": [
+        "/media/cosmos-3.webp",
+        "/media/cosmos-8.webp",
+        "/media/cosmos-9.webp"
+      ],
+      "description": {
+        "en": "Shown in Faena bienalle",
+        "pl": "Prezentowany na bienalle w Faenzie"
+      },
+      "messurments": "40x40x40cm",
+      "materials": { "en": "stoneware", "pl": "kamionka" },
+      "year": "2024"
+    }
+  ],
+  "description": {
+    "en": "This series was created as a new perspective on glaze test tiles. In my everyday practice, I use the potter’s wheel – a fast and convenient tool for creating vertical, repeatable forms. The thrown tests retain the characteristic marks of the technique and the texture of the clay, both of which influence the final glaze effect. Since most of my work is wheel-thrown, I want the test tiles to be miniature versions of the final pieces. The Cosmos series is the opposite of this proportion – the sample is enlarged and becomes a standalone artwork. In cross-section, it retains an “L” shape, crucial for analyzing the effects of gravity on glaze during firing. I combine the finished elements in pairs by their bases, creating broad surfaces that highlight the glaze combinations I’ve selected. The glaze is no longer a complement to the form – it becomes the most important element of the piece.",
+    "pl": "Seria powstała jako wyraz nowego spojrzenia na próbki szkliw. Wykonując takie kształtki na co dzień, używam koła garncarskiego - szybkiego i wygodnego narzędzia do realizacji pionowych, powtarzalnych elementów. Wytoczone próby zachowują charakterystyczne dla tej techniki ślady toczenia i strukturę gliny, mające wpływ na efekt końcowy szkliwa. Jako że większość prac toczę na kole, zależy mi aby próbki były swego rodzaju miniaturą docelowej pracy. Seria Kosmos jest zaprzeczeniem tej proporcji - próbka zostaje powiększona i staje się pracą samą w sobie. W przekroju zachowuje kształt litery “L”, tak istotny w analizowaniu wpływu grawitacji na szkliwo w trakcie wypału. Gotowe elementy łączę ze sobą podstawami w pary, tworząc rozległe powierzchnie wynoszące na pierwszy plan zestawione przeze mnie szkliwo. Nie jest już ono dopełnieniem formy, ale staje się najważniejszym elementem pracy."
+  }
+}

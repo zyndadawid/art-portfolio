@@ -1,0 +1,15 @@
+{
+  "title": { "en": "Event horizon 01", "pl": "Horyzont zdarzeń 01" },
+  "slug": "event-horizon-1",
+  "media": ["/media/event-horizon-01.webp"],
+  "dimensions": "h:45x45x38cm",
+  "materials": {
+    "en": "Stoneware, upcycled glass",
+    "pl": "Kamionka, upcycled glass"
+  },
+  "technique": {
+    "en": "Object thrown on the potter’s wheel",
+    "pl": "Obiekt toczony na kole garncarskim"
+  },
+  "year": "2024"
+}

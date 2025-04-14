@@ -1,0 +1,17 @@
+{
+  "title": { "en": "Entropy", "pl": "Entropia" },
+  "media": [
+    {
+      "slug": "entropy-1",
+      "media": ["/media/entropy-01.webp"]
+    },
+    {
+      "slug": "entropy-2",
+      "media": ["/media/entropy-04.webp"]
+    }
+  ],
+  "description": {
+    "en": "I consider the wall piece Entropy not only an artwork, but also a visualization of entropy's influence on reality and a reinforcement of its significance in our awareness. Low Entropy illustrates a high degree of order in the system through the regular arrangement of its modules, while High Entropy visualizes the chaos of a similar system after the passage of time and an increase in its disorder.",
+    "pl": "Dyptyk Entropia traktuję nie tylko jako pracę artystyczną, ale również wizualizację wpływu entropii na rzeczywistość, jak i umocnienie w naszej świadomości jej wagi. Entropia mała, obrazuje wysoki poziom uporządkowania elementów układu regularnością ułożenia modułów, natomiast Entropia duża, wizualizuje chaos podobnego układu, ale po upływie czasu i wzroście poziomu jego nieuporządkowania."
+  }
+}

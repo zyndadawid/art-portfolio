@@ -1,0 +1,41 @@
+{
+  "title": { "en": "Black holes", "pl": "Czarne dziury" },
+  "media": [
+    {
+      "slug": "black-hole-1",
+      "media": ["/media/black-hole-01.webp"]
+    },
+    {
+      "slug": "black-hole-2",
+      "media": ["/media/black-hole-02.webp"]
+    },
+    {
+      "slug": "black-hole-3",
+      "media": ["/media/black-hole-03.webp"]
+    },
+    {
+      "slug": "black-hole-4",
+      "media": ["/media/black-hole-04.webp"]
+    },
+    {
+      "slug": "black-hole-5",
+      "media": ["/media/black-hole-05.webp"]
+    },
+    {
+      "slug": "black-hole-6",
+      "media": ["/media/black-hole-06.webp"]
+    },
+    {
+      "slug": "black-hole-7",
+      "media": ["/media/black-hole-07.webp"]
+    },
+    {
+      "slug": "black-hole-8",
+      "media": ["/media/black-hole-08.webp"]
+    }
+  ],
+  "description": {
+    "en": "In this series, I aim to build analogies between black holes and wheel-thrown forms. The spinning motion of ceramic clay on the wheel can be captured in a three-dimensional form by introducing distortions that stem directly from the nature of this movement. These deformations help express the enigmatic nature of black hole interiors, preventing the viewer from looking directly into the depth of the objects.",
+    "pl": "W tym cyklu staram się budować analogie pomiędzy czarnymi dziurami, a formami wytoczonymi na kole. Wirowanie masy ceramicznej na kole, można zatrzymać w toczonej formie przestrzennej, za pomocą wprowadzenia zniekształceń, które wynikają bezpośrednio z charakteru tego ruchu. Deformacje zaś pomagają w uchwyceniu zagadkowości wnętrza czarnych dziur, uniemożliwiając odbiorcy proste spojrzenie w głąb obiektów."
+  }
+}

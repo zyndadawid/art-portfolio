@@ -1,0 +1,22 @@
+{
+  "title": { "en": "Dimensions entwined", "pl": "Wymiary splecione" },
+  "media": [
+    "/media/dimensions-entwined-01.webp",
+    "/media/dimensions-entwined-02.webp",
+    "/media/dimensions-entwined-03.webp"
+  ],
+  "description": {
+    "en": "This art installation is my personal interpretation of string theory, in which sheets of plexiglass represent successive planes of additional dimensions, and the ceramic elements weaving through them serve to visualize the strings of reality. Through seven transparent planes, I aim to depict seven additional dimensions that escape our perception—dimensions that exist materially, yet their colorlessness suggests they remain invisible to the human eye. I chose to throw flowing ribbons of clay through them on the potter’s wheel, using the natural behavior of the material during the throwing process to express both the vibration and fluidity of matter—the strings.",
+    "pl": "Ta instalacja jest moją osobistą interpretacją teorii strun, w której tafle plexi reprezentują kolejne płaszczyzny dodatkowych wymiarów, a ceramiczne elementy, przeplatające się pomiędzy nimi, służą zwizualizowaniu strun rzeczywistości. Za pomocą siedmiu przezroczystych płaszczyzn chcę pokazać siedem dodatkowych, umykających naszemu poznaniu wymiarów, które istnieją materialnie, jednak ich bezbarwność sugeruje, że są niewidoczne dla ludzkiego oka. Zdecydowałem się wytoczyć z masy ceramicznej przepływające przez nie taśmy i dzięki naturalnemu zachowaniu materiału w trakcie toczenia na kole garncarskim, ukazać jednocześnie rozedrganie i płynność materii - strun."
+  },
+  "dimensions": "h:100x100x100cm",
+  "materials": {
+    "en": "Stoneware, plexiglass, bolts",
+    "pl": "Kamionka, plexiglass, śruby"
+  },
+  "technique": {
+    "en": "Objects thrown on the potter’s wheel",
+    "pl": "Obiekty toczony na kole garncarskim"
+  },
+  "year": "2024"
+}

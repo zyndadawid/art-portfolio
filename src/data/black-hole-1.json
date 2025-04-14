@@ -1,0 +1,18 @@
+{
+  "title": {
+    "en": "Black hole 01",
+    "pl": "Czarna dziura 01"
+  },
+  "slug": "black-hole-1",
+  "media": ["/media/black-hole-01.webp"],
+  "dimensions": "h:20x31x23cm",
+  "materials": {
+    "en": "Stoneware, textile filament",
+    "pl": "Kamionka, włókno tekstylne"
+  },
+  "technique": {
+    "en": "Object thrown on the potter’s wheel",
+    "pl": "Obiekt toczony na kole garncarskim"
+  },
+  "year": "2024"
+}

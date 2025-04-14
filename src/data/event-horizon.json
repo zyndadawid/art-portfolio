@@ -1,0 +1,53 @@
+{
+  "title": { "en": "Event horizon", "pl": "Horyzont zdarzeń" },
+  "media": [
+    {
+      "slug": "event-horizon-1",
+      "media": ["/media/event-horizon-01.webp"]
+    },
+    {
+      "slug": "event-horizon-2",
+      "media": ["/media/event-horizon-02.webp"]
+    },
+    {
+      "slug": "event-horizon-3",
+      "media": ["/media/event-horizon-03.webp"]
+    },
+    {
+      "slug": "event-horizon-4",
+      "media": ["/media/event-horizon-04.webp"]
+    },
+    {
+      "slug": "event-horizon-5",
+      "media": ["/media/event-horizon-05.webp"]
+    },
+    {
+      "slug": "event-horizon-6",
+      "media": ["/media/event-horizon-06.webp"]
+    },
+    {
+      "slug": "event-horizon-7",
+      "media": ["/media/event-horizon-07.webp"]
+    },
+    {
+      "slug": "event-horizon-8",
+      "media": ["/media/event-horizon-08.webp"]
+    },
+    {
+      "slug": "event-horizon-9",
+      "media": ["/media/event-horizon-09.webp"]
+    },
+    {
+      "slug": "event-horizon-10",
+      "media": ["/media/event-horizon-10.webp"]
+    },
+    {
+      "slug": "event-horizon-11",
+      "media": ["/media/event-horizon-11.webp"]
+    }
+  ],
+  "description": {
+    "en": "In this series, I decided to combine ceramics and glass – materials that, for me, represent the contrasting nature of black holes: the known and the unknown. Ceramics provide the solid, tangible foundation of each sculpture, while the connecting glass embodies the elusive and immaterial, particularly the event horizon – the point beyond which it is impossible to escape the gravitational pull of a black hole.",
+    "pl": "W tej serii zdecydowałem się połączyć ceramikę i szkło - materiały, które dla mnie reprezentują kontrastującą naturę czarnych dziur: znane i nieznane. Ceramika tworzy solidną, namacalną podstawę każdej rzeźby, podczas gdy łączące je szkło uosabia nieuchwytne i niematerialne, w szczególności horyzont zdarzeń - punkt, po przekroczeniu którego, nie da się uciec przed grawitacją czarnej dziury."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": { "en": "Space debris", "pl": "Kosmiczne odpady" },
+  "media": [
+    {
+      "slug": "space-debris-1",
+      "media": ["/media/space-debris-02.webp"]
+    },
+    {
+      "slug": "space-debris-3",
+      "media": ["/media/space-debris-03.webp"]
+    },
+    {
+      "slug": "space-debris-4",
+      "media": ["/media/space-debris-04.webp"]
+    },
+    {
+      "slug": "space-debris-5",
+      "media": ["/media/space-debris-05.webp"]
+    }
+  ],
+  "description": {
+    "en": "From the Earth's perspective, space debris doesn't seem like a significant issue (after all, we don’t see anything in the sky!). So it was surprising for me to discover a dedicated NASA program focused on measuring and mitigating the negative effects of this debris in Earth’s orbits. As of January 2022, nearly 9,000 tons of debris were recorded in near-Earth space. In my works, I aimed to capture the melting and disintegration of material—mimicking the effect of atmospheric entry and the burning of an object.",
+    "pl": "Kosmiczne odpady z perspektywy Ziemi nie wydają się być znacznym problemem (przecież nic na niebie nie widzimy!). Zaskakującym było więc dla mnie odkrycie specjalnego programu NASA, zajmującego się mierzeniem i zapobieganiem negatywnym skutkom obecności tych śmieci na orbitach okołoziemskich. Stan na styczeń 2022 roku wykazywał blisko 9000 ton śmieci w przestrzeni okołoziemskiej. W pracach chciałem uchwycić rozpływanie się materiału, naśladujące wpływ wejścia w atmosferę i spalania obiektu."
+  }
+}

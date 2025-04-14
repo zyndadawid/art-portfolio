@@ -1,0 +1,37 @@
+[
+  {
+    "title": { "en": "Black holes", "pl": "Czarne dziury" },
+    "link": "/media/black-hole-06-thumb.webp",
+    "slug": "black-holes"
+  },
+  {
+    "title": { "en": "Event Horizon", "pl": "Horyzont zdarzeń" },
+    "link": "/media/event-horizon-05-thumb.webp",
+    "slug": "event-horizon"
+  },
+  {
+    "title": { "en": "Cosmos", "pl": "Kosmos" },
+    "link": "/media/cosmos-03-thumb.webp",
+    "slug": "cosmos"
+  },
+  {
+    "title": { "en": "!Gravity", "pl": "!Grawitacja" },
+    "link": "/media/gravity-01-thumb.webp",
+    "slug": "gravity"
+  },
+  {
+    "title": { "en": "Space debris", "pl": "Kosmiczne odpady" },
+    "link": "/media/space-debris-05-thumb.webp",
+    "slug": "space-debris"
+  },
+  {
+    "title": { "en": "Dimensions entwined", "pl": "Wymiary splecione" },
+    "link": "/media/dimensions-entwined-01-thumb.webp",
+    "slug": "dimensions-entwined"
+  },
+  {
+    "title": { "en": "Entropy", "pl": "Entropy" },
+    "link": "/media/entropy-06-thumb.webp",
+    "slug": "entropy"
+  }
+]

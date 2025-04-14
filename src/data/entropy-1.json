@@ -1,0 +1,22 @@
+{
+  "title": {
+    "en": "Low Entropy",
+    "pl": "Entropia niska"
+  },
+  "slug": "entropy-1",
+  "media": [
+    "/media/entropy-01.webp",
+    "/media/entropy-02.webp",
+    "/media/entropy-03.webp"
+  ],
+  "dimensions": "h:3x100x100cm",
+  "materials": {
+    "en": "Stoneware",
+    "pl": "Kamionka"
+  },
+  "technique": {
+    "en": "Created using an extruder and fired in a hybrid kiln of my own construction.",
+    "pl": "Wykonane przy użyciu ekstrudera i wypalone w hybrydowym piecu własnej konstrukcji."
+  },
+  "year": "2024"
+}
