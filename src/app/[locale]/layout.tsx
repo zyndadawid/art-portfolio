@@ -8,16 +8,15 @@ type Props = {
   params: { locale: string };
 };
 
-export default async function LocaleLayout({
-  children,
-  params: { locale },
-}: Props) {
-  const messages = await getMessages();
+export default async function LocaleLayout({ children, params }: Props) {
+  const { locale } = params;
+
+  const messages = await getMessages({ locale });
 
   return (
     <html lang={locale}>
       <body>
-        <NextIntlClientProvider messages={messages}>
+        <NextIntlClientProvider locale={locale} messages={messages}>
           <Navbar />
           {children}
         </NextIntlClientProvider>
