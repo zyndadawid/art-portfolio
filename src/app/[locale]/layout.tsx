@@ -1,5 +1,4 @@
 import { ReactNode } from "react";
-import { notFound } from "next/navigation";
 import { NextIntlClientProvider } from "next-intl";
 import Navbar from "../../components/Navbar";
 import { getMessages } from "next-intl/server";
