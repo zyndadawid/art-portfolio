@@ -6,8 +6,7 @@ type Params = {
 };
 
 export default async function PortfolioDetailPage({ params }: Params) {
-  const { slug } = params;
-  // Join slug segments according to your naming convention. For instance:
+  const { slug } = await params;
   const fileSlug = slug.join("-");
 
   let data;
