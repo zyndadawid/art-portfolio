@@ -5,18 +5,18 @@ import { getMessages } from "next-intl/server";
 
 type Props = {
   children: ReactNode;
-  params: { locale: string };
+  params: Promise<{ locale: string }>; // 👈 NOTE: This is now a Promise
 };
 
 export default async function LocaleLayout({ children, params }: Props) {
-  const { locale } = params;
+  const { locale } = await params; // 👈 Await the params here
 
   const messages = await getMessages({ locale });
 
   return (
     <html lang={locale}>
       <body>
-        <NextIntlClientProvider locale={locale} messages={messages}>
+        <NextIntlClientProvider messages={messages} locale={locale}>
           <Navbar />
           {children}
         </NextIntlClientProvider>
