@@ -3,20 +3,19 @@ import { NextIntlClientProvider } from "next-intl";
 import Navbar from "../../components/Navbar";
 import { getMessages } from "next-intl/server";
 
-type Props = {
+export default async function LocaleLayout({
+  children,
+  params,
+}: {
   children: ReactNode;
-  params: Promise<{ locale: string }>; // 👈 NOTE: This is now a Promise
-};
-
-export default async function LocaleLayout({ children, params }: Props) {
-  const { locale } = await params; // 👈 Await the params here
-
-  const messages = await getMessages({ locale });
+  params: { locale: string };
+}) {
+  const messages = await getMessages({ locale: params.locale });
 
   return (
-    <html lang={locale}>
+    <html lang={params.locale}>
       <body>
-        <NextIntlClientProvider messages={messages} locale={locale}>
+        <NextIntlClientProvider locale={params.locale} messages={messages}>
           <Navbar />
           {children}
         </NextIntlClientProvider>
