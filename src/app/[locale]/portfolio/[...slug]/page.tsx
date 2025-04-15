@@ -1,17 +1,11 @@
 import PortfolioDetail from "@/components/PortfolioDetail";
 import { notFound } from "next/navigation";
+import type { PageProps } from "next";
 
-type Params = {
-  locale: string;
-  slug: string[];
-};
-
-export default async function PortfolioDetailPage(props: {
-  params: Promise<Params>;
-}) {
-  const { locale, slug } = await props.params;
-
-  const fileSlug = slug.join("-");
+export default async function PortfolioDetailPage({
+  params,
+}: PageProps<{ locale: string; slug: string[] }>) {
+  const fileSlug = params.slug.join("-");
 
   let data;
   try {
