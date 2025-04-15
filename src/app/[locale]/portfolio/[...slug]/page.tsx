@@ -1,12 +1,12 @@
 import PortfolioDetail from "@/components/PortfolioDetail";
 import { notFound } from "next/navigation";
 
-type Props = {
-  params: { slug: string[] };
-};
+type Props = Promise<{
+  slug: string[];
+}>;
 
-export default async function PortfolioDetailPage({ params }: Props) {
-  const { slug } = await params;
+export default async function PortfolioDetailPage(props: { params: Props }) {
+  const { slug } = await props.params;
 
   const fileSlug = slug.join("-");
 
