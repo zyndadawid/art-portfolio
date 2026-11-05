@@ -40,12 +40,13 @@ export default function PortfolioPreview({ data }: PortfolioDetailProps) {
   const isArrayOfStrings = data.media.every((item) => typeof item === "string");
 
   return (
-    <div className="min-h-screen flex justify-center bg-gray-100">
+    <div className="detail-page">
       {/* Full-width wrapper with responsive horizontal padding */}
-      <div className=" w-1/2 px-4 py-6">
+      <div className="detail-content">
         {/* Header with back button and title */}
-        <div className="flex items-center mb-6 mt-10">
+        <div className="detail-heading">
           <Link
+            aria-label={locale === "pl" ? "Powrót do konstelacji" : "Back to constellation"}
             href={`/${locale}/portfolio`}
             className="flex items-center justify-center w-10 h-10 rounded-full bg-gray-200 hover:bg-gray-300 mr-4"
           >
@@ -61,7 +62,7 @@ export default function PortfolioPreview({ data }: PortfolioDetailProps) {
           {data.description && (
             <p
               className="text-lg text-gray-700 mb-4"
-              style={{ textAlign: "justify" }}
+              style={{ textAlign: "left" }}
             >
               {data.description[locale]}
             </p>
@@ -115,7 +116,7 @@ export default function PortfolioPreview({ data }: PortfolioDetailProps) {
                 >
                   <Image
                     src={imageSrc}
-                    alt={`Slide ${index + 1}`}
+                    alt={`${data.title[locale]} — ${index + 1}`}
                     className="max-w-full h-auto rounded shadow-md"
                     width={1920}
                     height={1080}
@@ -128,8 +129,8 @@ export default function PortfolioPreview({ data }: PortfolioDetailProps) {
               <Image
                 key={index}
                 src={imageSrc}
-                alt={`Slide ${index + 1}`}
-                className="max-w-full h-auto rounded shadow-md col-span-2"
+                alt={`${data.title[locale]} — ${index + 1}`}
+                className="max-w-full h-auto rounded shadow-md sm:col-span-2"
                 width={1920}
                 height={1080}
               />

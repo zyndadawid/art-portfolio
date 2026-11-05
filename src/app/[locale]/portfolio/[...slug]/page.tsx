@@ -18,7 +18,7 @@ export default async function PortfolioDetailPage(props: { params: Props }) {
   }
 
   return (
-    <div className="bg-gray-100 min-h-screen p-6">
+    <div className="detail-wrapper">
       <PortfolioDetail data={data} />
     </div>
   );

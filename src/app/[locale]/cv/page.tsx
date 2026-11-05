@@ -25,11 +25,11 @@ export default function CV() {
   const t = useTranslations();
 
   return (
-    <div className="flex justify-center items-center min-h-screen bg-gray-200 p-4 mt-10">
-      <div className="flex flex-col bg-gray-100 w-full max-w-4xl p-6">
-        <div className="flex justify-center w-full mb-8">
-          <h1 className="text-3xl font-bold text-center text-gray-800">
-            {t("cv")}
+    <div className="cv-page">
+      <div className="cv-content">
+        <div className="cv-heading">
+          <h1 className="cv-title">
+            {locale === "pl" ? "Trajektoria." : "Trajectory."}
           </h1>
           <a
             href="/media/Dawid_Zynda_CV.pdf"
@@ -47,7 +47,7 @@ export default function CV() {
               {section.title[locale]}
             </h2>
             {section.entries.map((entry, index) => (
-              <div key={index} className="p-1 border-b border-gray-200">
+              <div key={index} className="cv-entry">
                 <p className="text-gray-800">
                   <span className="font-bold">{entry.year}:</span>{" "}
                   <span className="font-bold">{entry.bold[locale]} </span>
