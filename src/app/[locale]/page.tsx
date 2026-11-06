@@ -1,2 +1,3 @@
 import VideoPortal from "@/components/VideoPortal";
-export default function HomePage() { return <VideoPortal />; }
+import BlackHoleArcade from "@/components/BlackHoleArcade";
+export default function HomePage() { return <><VideoPortal /><BlackHoleArcade /></>; }
